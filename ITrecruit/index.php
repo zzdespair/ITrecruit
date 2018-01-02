@@ -5,4 +5,4 @@ define('APP_DEBUG',true);
 //应用目录
 define('APP_PATH','./App/');
 //导入ThinkPHP主文件
-require('./ThinkPHP/ThinkPHP.php');
+require('./ThinkPHP/ThinkPHP.php'); 
